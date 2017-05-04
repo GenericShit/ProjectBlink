@@ -12,7 +12,7 @@ body {
   text-rendering: optimizeLegibility;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
-  background-image: url("http://s17.postimg.org/fr01hfe33/image.jpg");
+  background-image: url("../img/bg.png");
   background-size: cover;
   background-repeat: none;
 }
@@ -32,8 +32,8 @@ body {
   position: relative;
   top: 50%;
   left: 50%;
-  width: 80%;
-  height: 75%;
+  width: 100%;
+  height: %;
   background-color: #fff;
   -moz-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -42,7 +42,7 @@ body {
 }
 .container .left {
   float: left;
-  width: 37.6%;
+  width: 36%;
   height: 100%;
   border: 1px solid #e6e6e6;
   background-color: #fff;
